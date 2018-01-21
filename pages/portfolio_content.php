@@ -18,9 +18,9 @@
               <img class="img-responsive" src="images/portfolio/recent/26694866_833765606811795_637925178_n.jpg" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
-                  <h3><a href="#">Business theme</a></h3>
+                  <h3><a href="#">Building Construction</a></h3>
                   <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                  <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                  <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"></a>
                 </div>
               </div>
             </div>
@@ -32,9 +32,9 @@
               <img class="img-responsive" src="images/portfolio/recent/26647904_833765640145125_1763139167_n.jpg" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
-                  <h3><a href="#">Business theme</a></h3>
+                  <h3><a href="#">Award for Best Underground Utilities Work</a> </h3>
                   <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                  <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                  <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"></a>
                 </div>
               </div>
             </div>
@@ -46,9 +46,9 @@
               <img class="img-responsive" src="images/portfolio/recent/sgas.jpg" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
-                  <h3><a href="#">Business theme</a></h3>
+                  <h3><a href="#">Mechanical Piping and pumps</a></h3>
                   <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                  <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                  <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"></a>
                 </div>
               </div>
             </div>

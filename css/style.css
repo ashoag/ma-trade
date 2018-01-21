@@ -134,6 +134,15 @@ body > section {
 .center {
   text-align: center;
   padding-bottom: 55px;
+  
+}
+.ser-center {
+    text-align: center;
+    padding-bottom: 36px;
+    background-color: #e8ce0e;
+    margin-bottom: 28px;
+    border-radius: 5px;
+    padding-top: 32px;
 }
 
 .scaleIn {

@@ -2,7 +2,7 @@
 
   <section id="services" class="service-item">
     <div class="container">
-      <div class="center wow fadeInDown">
+      <div class="ser-center wow fadeInDown">
         <h2>Our Service</h2>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
       </div>
