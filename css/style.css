@@ -521,14 +521,14 @@ ul.social-share li a:hover {
 }
 
 #services {
-  background: #000 url(../images/services/bg_services.jpg);
+  background: #000 url(../images/services/26694866_833765606811795_637925178_n.jpg);
   background-size: cover;
   margin-top:70px;
 }
 
 #services .lead,
 #services h2{
-  color: #fff;
+  color: #151515;
 }
 
 .services-wrap {
@@ -536,6 +536,7 @@ ul.social-share li a:hover {
   background: #fff;
   border-radius: 4px;
   margin: 0 0 40px;
+  height: 242px;
 }
 
 .services-wrap h3 {
@@ -1026,6 +1027,8 @@ a.accordion-toggle  i{
   border: 1px solid #ddd;
   padding: 15px;
   position: relative;
+  
+  
 }
 
 .media_image {

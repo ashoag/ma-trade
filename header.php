@@ -18,7 +18,7 @@
                             <li class=""><a href="index.php">Home</a></li>
                             <li><a href="about_us.php">About Us</a></li>
                             <li><a href="service.php">Services</a></li>
-                            <li><a href="portfolio.php">Portfolio</a></li>
+                            <li><a href="portfolio.php">Our Works</a></li>
                             
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
