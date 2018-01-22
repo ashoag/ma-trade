@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        &copy; Gp Theme. All Rights Reserved.
+                        &copy;  All Rights Reserved.
                         <div class="credits">
                             <!--
                               All the links in the footer should remain intact.
@@ -30,7 +30,7 @@
                               Licensing information: https://bootstrapmade.com/license/
                               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Gp
                             -->
-                            <a href="https://bootstrapmade.com/">Bootstrap Templates</a> by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
+                            <a href="https://bootstrapmade.com/">Ma Trade International</a> by <a href="https://bootstrapmade.com/"><span style="color:yellow">matradeint.com</span></a>
                         </div>
                     </div>
                     <div class="col-sm-6">
